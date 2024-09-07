@@ -29,3 +29,4 @@ Success is not in what you have, but who you are. Cache Invalidation Distributed
 Multi-threading Optimization Performance Security NLP Serverless Great things never come from comfort zones. JavaScript Distributed Systems Framework Kafka Quantum Computing Load Testing
 Automation Predictive Analytics Container Orchestration UX Optimization Success is how high you bounce when you hit bottom. Big Data WebSockets
 Kubernetes Server Response Security Data Pipeline Event Sourcing NLP Opportunities don't happen. You create them. JavaScript Edge Computing Code Review The only way to do great work is to love what you do. Parallel Processing Distributed Systems Python WebSockets
+Scalability Frontend Pull Request Firewalls Success is not in what you have, but who you are. IoT DNS Routing
