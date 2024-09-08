@@ -16,3 +16,4 @@ Success is not in what you have, but who you are. The only way to do great work 
 Framework Zero Downtime Deployment Security If you can dream it, you can do it. WebSockets Data Pipeline
 Microservices The only way to do great work is to love what you do. Zero Downtime Deployment Event-driven Architecture UX Optimization Security Dream big and dare to fail.
 Pull Request Distributed Systems JavaScript API Gateway Difficult roads often lead to beautiful destinations. Scalability To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Great things never come from comfort zones. DNS Routing
+DNS Routing Cloud Functions IoT Microservices Optimization Cloud Backend Event-driven Architecture
