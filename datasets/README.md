@@ -15,3 +15,4 @@ Distributed Systems Docker Python Microservices Work hard in silence, let your s
 Replica Set Innovation distinguishes between a leader and a follower. IoT Edge Computing Frontend GraphQL Event-driven Architecture Serverless
 Blockchain Optimization Backend Great things never come from comfort zones. Sharding A/B Testing Serverless DNS Routing Security
 Success is not in what you have, but who you are. Event Sourcing Data Pipeline React DevOps Database Indexing Database
+Dream big and dare to fail. Neural Networks Act as if what you do makes a difference. It does. Data Science A/B Testing Message Queue Agile Success is how high you bounce when you hit bottom. JWT Load Balancing I find that the harder I work, the more luck I seem to have.
