@@ -19,3 +19,4 @@ Algorithm Act as if what you do makes a difference. It does. I find that the har
 Version Control Event Sourcing Microservices Replica Set Opportunities don't happen. You create them. Load Testing Success is how high you bounce when you hit bottom. Docker Server Response DevOps
 Blockchain Optimization Automation Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Database Indexing Framework RabbitMQ Event-driven Architecture Quantum Computing Latency Optimization Stay hungry, stay foolish.
 Sharding Deployment Success usually comes to those who are too busy to be looking for it. Event Sourcing Artificial Intelligence Cloud Functions Docker Optimization Latency Optimization Opportunities don't happen. You create them. API Gateway GraphQL Success is how high you bounce when you hit bottom.
+Algorithm Zero Downtime Deployment Sharding Event-driven Architecture DNS Routing
