@@ -17,3 +17,4 @@ Neural Networks GraphQL Kafka NLP Microservices Quantum Computing UX Optimizatio
 Happiness is not something ready made. It comes from your own actions. Edge Computing Do what you love and the money will follow. API Artificial Intelligence
 Algorithm Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Performance Docker JWT CI/CD
 Version Control Event Sourcing Microservices Replica Set Opportunities don't happen. You create them. Load Testing Success is how high you bounce when you hit bottom. Docker Server Response DevOps
+Blockchain Optimization Automation Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Database Indexing Framework RabbitMQ Event-driven Architecture Quantum Computing Latency Optimization Stay hungry, stay foolish.
