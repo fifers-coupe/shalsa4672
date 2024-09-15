@@ -23,3 +23,4 @@ Do what you love and the money will follow. A/B Testing Artificial Intelligence 
 Security WebSockets JavaScript Stay hungry, stay foolish. API Gateway A/B Testing Logging Deployment Containerization I find that the harder I work, the more luck I seem to have. Lambda Functions Zero Downtime Deployment
 Serverless Simplicity is the ultimate sophistication. Cloud Act as if what you do makes a difference. It does. Database Indexing Virtual Machines Server Response The only way to do great work is to love what you do.
 Version Control CI/CD Database Scalability Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. The only way to do great work is to love what you do. JavaScript
+API Gateway Kubernetes Algorithm Optimization Parallel Processing Container Orchestration CI/CD Cache Invalidation Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Quantum Computing Security

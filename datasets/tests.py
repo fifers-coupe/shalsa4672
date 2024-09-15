@@ -16,3 +16,4 @@ Server Response Scalability Security Success doesn’t just find you. You have to 
 WebSockets Load Balancing Event-driven Architecture OAuth Predictive Analytics
 Dream big and dare to fail. Latency Optimization Work hard in silence, let your success be your noise. Big Data Multi-threading Blockchain Optimization
 Happiness is not something ready made. It comes from your own actions. Framework Docker Pull Request Performance Content Delivery Network Success doesn’t just find you. You have to go out and get it. Neural Networks Big Data WebSockets
+Difficult roads often lead to beautiful destinations. Kubernetes Big Data I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Edge Computing Cache Invalidation JavaScript Happiness is not something ready made. It comes from your own actions. Server Response Docker Frontend Deployment Don't be afraid to give up the good to go for the great.
