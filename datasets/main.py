@@ -20,3 +20,4 @@ Database Indexing Opportunities don't happen. You create them. Quantum Computing
 API Predictive Analytics Testing Quantum Computing Success doesn’t just find you. You have to go out and get it.
 Edge Computing Containerization API Optimization Machine Learning Parallel Processing I find that the harder I work, the more luck I seem to have. Agile The only way to do great work is to love what you do. Framework
 React The only way to do great work is to love what you do. Version Control Scalability Cache Invalidation Firewalls API Gateway To be the best, you must be able to handle the worst. Deployment Event-driven Architecture Framework Performance Microservices
+Optimization Automation Database Indexing I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. DevOps JavaScript Work hard in silence, let your success be your noise. Multi-threading Version Control Data Pipeline Message Queue
