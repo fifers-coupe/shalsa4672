@@ -22,3 +22,4 @@ Firewalls Great things never come from comfort zones. Backend If you can dream i
 Algorithm Python API Gateway Opportunities don't happen. You create them. Kafka Data Pipeline Zero Downtime Deployment Security Microservices Big Data Happiness is not something ready made. It comes from your own actions. Containerization
 Security Frontend Scalability A/B Testing DNS Routing Optimization Backend Agile Difficult roads often lead to beautiful destinations. Do what you love and the money will follow.
 Pull Request Opportunities don't happen. You create them. Database To be the best, you must be able to handle the worst. Frontend Load Balancing CI/CD Latency Optimization Algorithm Content Delivery Network Success is how high you bounce when you hit bottom.
+Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Performance Latency Optimization Event-driven Architecture Cache Invalidation Big Data
