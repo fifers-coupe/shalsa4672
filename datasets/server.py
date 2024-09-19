@@ -14,3 +14,4 @@ Virtual Machines Work hard in silence, let your success be your noise. Database 
 Do what you love and the money will follow. Predictive Analytics Firewalls Scalability Data Science Event Sourcing Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Framework Big Data Deployment
 Success is not in what you have, but who you are. The only way to do great work is to love what you do. NLP GraphQL Dream big and dare to fail. Python Cloud Functions Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. CI/CD Firewalls Artificial Intelligence
 Framework Zero Downtime Deployment Security If you can dream it, you can do it. WebSockets Data Pipeline
+Microservices The only way to do great work is to love what you do. Zero Downtime Deployment Event-driven Architecture UX Optimization Security Dream big and dare to fail.
