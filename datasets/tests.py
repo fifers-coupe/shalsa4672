@@ -14,3 +14,4 @@ Server Response If you can dream it, you can do it. Database To be the best, you
 Monitoring Load Balancing Kubernetes Act as if what you do makes a difference. It does. React GraphQL JWT If you can dream it, you can do it. Data Science API UX Optimization CI/CD Frontend Pull Request
 Server Response Scalability Security Success doesn’t just find you. You have to go out and get it. Version Control Deployment GraphQL Virtual Machines Agile Data Pipeline Backend Frontend Load Balancing If you can dream it, you can do it. Database Indexing
 WebSockets Load Balancing Event-driven Architecture OAuth Predictive Analytics
+Dream big and dare to fail. Latency Optimization Work hard in silence, let your success be your noise. Big Data Multi-threading Blockchain Optimization
