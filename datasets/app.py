@@ -15,3 +15,4 @@ Difficult roads often lead to beautiful destinations. Happiness is not something
 I find that the harder I work, the more luck I seem to have. Message Queue Kubernetes JWT UX Optimization To be the best, you must be able to handle the worst.
 Automation API Opportunities don't happen. You create them. JavaScript Machine Learning If you can dream it, you can do it.
 Event Sourcing Data Science Difficult roads often lead to beautiful destinations. Distributed Systems Version Control Code Review Microservices React Latency Optimization Quantum Computing Edge Computing Agile Logging Cache Invalidation
+Act as if what you do makes a difference. It does. Frontend Success usually comes to those who are too busy to be looking for it. Lambda Functions Artificial Intelligence Replica Set Cloud Functions

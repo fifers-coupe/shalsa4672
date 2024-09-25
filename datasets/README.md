@@ -13,3 +13,4 @@ Content Delivery Network Event Sourcing DNS Routing Neural Networks Python API A
 Automation UX Optimization Database Indexing Load Testing Success doesn’t just find you. You have to go out and get it. Monitoring Event Sourcing
 Distributed Systems Docker Python Microservices Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. React
 Replica Set Innovation distinguishes between a leader and a follower. IoT Edge Computing Frontend GraphQL Event-driven Architecture Serverless
+Blockchain Optimization Backend Great things never come from comfort zones. Sharding A/B Testing Serverless DNS Routing Security
