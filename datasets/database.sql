@@ -23,3 +23,4 @@ IoT Virtual Machines Kafka GraphQL Success is not in what you have, but who you 
 Difficult roads often lead to beautiful destinations. Distributed Systems Testing Message Queue To be the best, you must be able to handle the worst. Edge Computing Stay hungry, stay foolish. Replica Set A/B Testing Zero Downtime Deployment
 NLP Replica Set Neural Networks Security Lambda Functions Python Microservices Predictive Analytics CI/CD Parallel Processing Stay hungry, stay foolish. API Gateway
 Quantum Computing Difficult roads often lead to beautiful destinations. OAuth Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Kubernetes Microservices Load Testing Python
+Kafka Stay hungry, stay foolish. Blockchain Quantum Computing Load Balancing Testing Algorithm Performance Sharding UX Optimization Distributed Systems
