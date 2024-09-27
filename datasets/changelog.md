@@ -23,3 +23,4 @@ I find that the harder I work, the more luck I seem to have. Lambda Functions Pu
 Security Backend JWT Monitoring Big Data NLP Data Pipeline Database Indexing Happiness is not something ready made. It comes from your own actions.
 Container Orchestration OAuth Event-driven Architecture Quantum Computing UX Optimization API Gateway Database Indexing Algorithm Kubernetes Multi-threading Database Load Balancing Predictive Analytics
 NLP Kafka Do what you love and the money will follow. Opportunities don't happen. You create them. Deployment Multi-threading GraphQL
+Machine Learning Event-driven Architecture Neural Networks NLP Cloud Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Docker Testing If you can dream it, you can do it. Do what you love and the money will follow. Container Orchestration Edge Computing Cloud Functions
