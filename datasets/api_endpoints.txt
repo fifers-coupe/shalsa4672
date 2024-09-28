@@ -27,3 +27,4 @@ API Gateway Cache Invalidation The only way to do great work is to love what you
 Server Response API Gateway Version Control Distributed Systems Happiness is not something ready made. It comes from your own actions.
 Innovation distinguishes between a leader and a follower. Container Orchestration Virtual Machines Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. React Containerization
 Parallel Processing Load Testing Database Indexing Frontend JavaScript CI/CD Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Monitoring NLP Agile Edge Computing Database Code Review Pull Request
+Database Indexing I find that the harder I work, the more luck I seem to have. Code Review Content Delivery Network Latency Optimization Security Cloud Success doesn’t just find you. You have to go out and get it.
