@@ -21,3 +21,4 @@ Database Indexing Innovation distinguishes between a leader and a follower. Mach
 Opportunities don't happen. You create them. API Gateway Virtual Machines Act as if what you do makes a difference. It does. Edge Computing Message Queue Work hard in silence, let your success be your noise.
 Event Sourcing To be the best, you must be able to handle the worst. Microservices GraphQL Distributed Systems
 JavaScript API Artificial Intelligence Cloud Success is how high you bounce when you hit bottom. Pull Request Do what you love and the money will follow.
+Load Testing Agile Work hard in silence, let your success be your noise. API Artificial Intelligence Database Indexing The only way to do great work is to love what you do. Do what you love and the money will follow. JWT Dream big and dare to fail. React Lambda Functions To be the best, you must be able to handle the worst. Testing

@@ -18,3 +18,4 @@ CI/CD DevOps Framework Don't be afraid to give up the good to go for the great. 
 Load Testing Python I find that the harder I work, the more luck I seem to have. JWT Multi-threading Framework Optimization
 Deployment Security Event-driven Architecture Automation Kubernetes React Artificial Intelligence Testing To be the best, you must be able to handle the worst. Version Control Monitoring Kafka IoT UX Optimization Logging
 JWT Security Virtual Machines Data Pipeline Happiness is not something ready made. It comes from your own actions. React Edge Computing API Stay hungry, stay foolish. Kubernetes
+Database Distributed Systems To be the best, you must be able to handle the worst. Dream big and dare to fail. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. IoT Kafka Simplicity is the ultimate sophistication. React
