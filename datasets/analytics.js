@@ -17,3 +17,4 @@ Event-driven Architecture API Gateway Version Control Content Delivery Network S
 CI/CD DevOps Framework Don't be afraid to give up the good to go for the great. JavaScript Pull Request Artificial Intelligence Do what you love and the money will follow. Multi-threading
 Load Testing Python I find that the harder I work, the more luck I seem to have. JWT Multi-threading Framework Optimization
 Deployment Security Event-driven Architecture Automation Kubernetes React Artificial Intelligence Testing To be the best, you must be able to handle the worst. Version Control Monitoring Kafka IoT UX Optimization Logging
+JWT Security Virtual Machines Data Pipeline Happiness is not something ready made. It comes from your own actions. React Edge Computing API Stay hungry, stay foolish. Kubernetes
