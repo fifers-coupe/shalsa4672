@@ -18,3 +18,4 @@ CI/CD Stay hungry, stay foolish. Data Pipeline NLP API Performance Quantum Compu
 Container Orchestration Parallel Processing Agile Database Indexing Backend Monitoring
 Predictive Analytics Microservices Pull Request DNS Routing Scalability JavaScript Stay hungry, stay foolish. Load Balancing
 A/B Testing Container Orchestration Success is not in what you have, but who you are. OAuth DevOps Don't be afraid to give up the good to go for the great. Optimization Neural Networks Server Response I find that the harder I work, the more luck I seem to have. Monitoring Parallel Processing Serverless
+Backend Multi-threading Event Sourcing Kafka Predictive Analytics Do what you love and the money will follow. Big Data Great things never come from comfort zones. Server Response Database Success is not in what you have, but who you are.
