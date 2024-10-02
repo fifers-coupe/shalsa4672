@@ -12,3 +12,4 @@ Python Message Queue Predictive Analytics Server Response Parallel Processing Da
 Stay hungry, stay foolish. Deployment Database Indexing Zero Downtime Deployment Opportunities don't happen. You create them. Content Delivery Network Monitoring GraphQL Machine Learning Artificial Intelligence Distributed Systems
 Parallel Processing Distributed Systems Server Response CI/CD Content Delivery Network Act as if what you do makes a difference. It does. Quantum Computing Cloud WebSockets Multi-threading Neural Networks DNS Routing Load Testing JWT Success usually comes to those who are too busy to be looking for it.
 DNS Routing Blockchain Kubernetes Neural Networks Sharding Data Science JavaScript Event-driven Architecture Success usually comes to those who are too busy to be looking for it.
+Act as if what you do makes a difference. It does. JWT Firewalls RabbitMQ Parallel Processing Cloud Docker Blockchain A/B Testing Sharding

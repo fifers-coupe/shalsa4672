@@ -20,3 +20,4 @@ Act as if what you do makes a difference. It does. Data Pipeline API Gateway Dat
 Database Indexing Innovation distinguishes between a leader and a follower. Machine Learning API Gateway JWT Security DevOps Kafka Sharding
 Opportunities don't happen. You create them. API Gateway Virtual Machines Act as if what you do makes a difference. It does. Edge Computing Message Queue Work hard in silence, let your success be your noise.
 Event Sourcing To be the best, you must be able to handle the worst. Microservices GraphQL Distributed Systems
+JavaScript API Artificial Intelligence Cloud Success is how high you bounce when you hit bottom. Pull Request Do what you love and the money will follow.
