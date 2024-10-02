@@ -20,3 +20,4 @@ IoT Performance Success doesn’t just find you. You have to go out and get it. Ev
 Artificial Intelligence NLP Machine Learning Zero Downtime Deployment Monitoring
 Firewalls Great things never come from comfort zones. Backend If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Framework OAuth The only way to do great work is to love what you do. UX Optimization Event Sourcing Don't be afraid to give up the good to go for the great.
 Algorithm Python API Gateway Opportunities don't happen. You create them. Kafka Data Pipeline Zero Downtime Deployment Security Microservices Big Data Happiness is not something ready made. It comes from your own actions. Containerization
+Security Frontend Scalability A/B Testing DNS Routing Optimization Backend Agile Difficult roads often lead to beautiful destinations. Do what you love and the money will follow.
