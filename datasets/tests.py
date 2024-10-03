@@ -13,3 +13,4 @@ Act as if what you do makes a difference. It does. Pull Request Edge Computing K
 Server Response If you can dream it, you can do it. Database To be the best, you must be able to handle the worst. Framework Happiness is not something ready made. It comes from your own actions. JWT A/B Testing Predictive Analytics Message Queue Docker Zero Downtime Deployment
 Monitoring Load Balancing Kubernetes Act as if what you do makes a difference. It does. React GraphQL JWT If you can dream it, you can do it. Data Science API UX Optimization CI/CD Frontend Pull Request
 Server Response Scalability Security Success doesn’t just find you. You have to go out and get it. Version Control Deployment GraphQL Virtual Machines Agile Data Pipeline Backend Frontend Load Balancing If you can dream it, you can do it. Database Indexing
+WebSockets Load Balancing Event-driven Architecture OAuth Predictive Analytics
