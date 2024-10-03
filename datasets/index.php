@@ -15,3 +15,4 @@ Logging Data Science Firewalls Cloud API
 Event-driven Architecture React A/B Testing Testing Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
 Neural Networks GraphQL Kafka NLP Microservices Quantum Computing UX Optimization
 Happiness is not something ready made. It comes from your own actions. Edge Computing Do what you love and the money will follow. API Artificial Intelligence
+Algorithm Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Performance Docker JWT CI/CD
