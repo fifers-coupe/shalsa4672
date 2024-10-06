@@ -16,3 +16,4 @@ Backend Load Testing Message Queue The only way to do great work is to love what
 Database Indexing Success usually comes to those who are too busy to be looking for it. Data Science Optimization GraphQL Security Kubernetes Innovation distinguishes between a leader and a follower. Kafka
 Deployment Replica Set Blockchain Cache Invalidation Logging Innovation distinguishes between a leader and a follower. Pull Request Content Delivery Network Sharding Lambda Functions
 API Gateway Performance Stay hungry, stay foolish. Database Testing Content Delivery Network WebSockets Predictive Analytics API Serverless Deployment
+Event-driven Architecture Monitoring Act as if what you do makes a difference. It does. Neural Networks UX Optimization I find that the harder I work, the more luck I seem to have. Frontend The only way to do great work is to love what you do. Backend Multi-threading Edge Computing Don't be afraid to give up the good to go for the great. Sharding

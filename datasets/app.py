@@ -14,3 +14,4 @@ API Gateway Content Delivery Network Neural Networks Load Balancing Don't be afr
 Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Message Queue Don't be afraid to give up the good to go for the great. Docker JWT Sharding Security API Firewalls Success is how high you bounce when you hit bottom. Replica Set Performance Event Sourcing
 I find that the harder I work, the more luck I seem to have. Message Queue Kubernetes JWT UX Optimization To be the best, you must be able to handle the worst.
 Automation API Opportunities don't happen. You create them. JavaScript Machine Learning If you can dream it, you can do it.
+Event Sourcing Data Science Difficult roads often lead to beautiful destinations. Distributed Systems Version Control Code Review Microservices React Latency Optimization Quantum Computing Edge Computing Agile Logging Cache Invalidation
