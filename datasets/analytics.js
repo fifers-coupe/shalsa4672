@@ -15,3 +15,4 @@ CI/CD IoT Data Pipeline Event Sourcing Stay hungry, stay foolish. Python Securit
 Content Delivery Network To be the best, you must be able to handle the worst. Data Pipeline Database Agile Act as if what you do makes a difference. It does. A/B Testing Logging Success doesn’t just find you. You have to go out and get it. Message Queue
 Event-driven Architecture API Gateway Version Control Content Delivery Network Serverless Virtual Machines Predictive Analytics Pull Request A/B Testing Backend Performance
 CI/CD DevOps Framework Don't be afraid to give up the good to go for the great. JavaScript Pull Request Artificial Intelligence Do what you love and the money will follow. Multi-threading
+Load Testing Python I find that the harder I work, the more luck I seem to have. JWT Multi-threading Framework Optimization
