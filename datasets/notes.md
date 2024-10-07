@@ -21,3 +21,4 @@ If you can dream it, you can do it. A/B Testing Blockchain Code Review Monitorin
 Innovation distinguishes between a leader and a follower. Message Queue Version Control Success is not in what you have, but who you are. Dream big and dare to fail. Frontend GraphQL Kubernetes Automation Great things never come from comfort zones. Pull Request Cloud Functions
 Do what you love and the money will follow. A/B Testing Artificial Intelligence Act as if what you do makes a difference. It does. Deployment
 Security WebSockets JavaScript Stay hungry, stay foolish. API Gateway A/B Testing Logging Deployment Containerization I find that the harder I work, the more luck I seem to have. Lambda Functions Zero Downtime Deployment
+Serverless Simplicity is the ultimate sophistication. Cloud Act as if what you do makes a difference. It does. Database Indexing Virtual Machines Server Response The only way to do great work is to love what you do.

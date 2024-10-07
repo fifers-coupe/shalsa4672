@@ -24,3 +24,4 @@ Machine Learning If you can dream it, you can do it. Framework Innovation distin
 Data Science Sharding Latency Optimization Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Blockchain
 Success is how high you bounce when you hit bottom. Content Delivery Network Automation Backend Deployment React DevOps Difficult roads often lead to beautiful destinations. Framework Neural Networks OAuth API Gateway
 Parallel Processing Docker Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Backend Success is how high you bounce when you hit bottom.
+Blockchain I find that the harder I work, the more luck I seem to have. Serverless Machine Learning Framework Event Sourcing Zero Downtime Deployment Firewalls If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Parallel Processing Server Response API CI/CD
