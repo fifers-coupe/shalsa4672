@@ -22,3 +22,4 @@ Monitoring Blockchain Zero Downtime Deployment Code Review Kafka Success usually
 I find that the harder I work, the more luck I seem to have. Lambda Functions Pull Request Firewalls Serverless Version Control Kubernetes Parallel Processing Multi-threading Big Data Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. DevOps Quantum Computing
 Security Backend JWT Monitoring Big Data NLP Data Pipeline Database Indexing Happiness is not something ready made. It comes from your own actions.
 Container Orchestration OAuth Event-driven Architecture Quantum Computing UX Optimization API Gateway Database Indexing Algorithm Kubernetes Multi-threading Database Load Balancing Predictive Analytics
+NLP Kafka Do what you love and the money will follow. Opportunities don't happen. You create them. Deployment Multi-threading GraphQL
