@@ -25,3 +25,4 @@ Happiness is not something ready made. It comes from your own actions. API Gatew
 Great things never come from comfort zones. Agile Security Quantum Computing Virtual Machines JavaScript Data Science Stay hungry, stay foolish. Kubernetes Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Microservices GraphQL Distributed Systems
 API Gateway Cache Invalidation The only way to do great work is to love what you do. JavaScript Data Pipeline Kubernetes Sharding Event-driven Architecture UX Optimization
 Server Response API Gateway Version Control Distributed Systems Happiness is not something ready made. It comes from your own actions.
+Innovation distinguishes between a leader and a follower. Container Orchestration Virtual Machines Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. React Containerization
