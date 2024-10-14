@@ -17,3 +17,4 @@ Dream big and dare to fail. Work hard in silence, let your success be your noise
 Do what you love and the money will follow. Predictive Analytics Load Balancing The only way to do great work is to love what you do. Database Indexing
 React IoT Sharding Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Stay hungry, stay foolish. API Latency Optimization Database CI/CD
 IoT Performance Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Database Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Backend The only way to do great work is to love what you do. JavaScript Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
+Artificial Intelligence NLP Machine Learning Zero Downtime Deployment Monitoring
