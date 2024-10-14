@@ -23,3 +23,4 @@ Simplicity is the ultimate sophistication. Pull Request Docker Edge Computing Di
 Machine Learning If you can dream it, you can do it. Framework Innovation distinguishes between a leader and a follower. GraphQL Cloud Containerization Neural Networks Database Dream big and dare to fail.
 Data Science Sharding Latency Optimization Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Blockchain
 Success is how high you bounce when you hit bottom. Content Delivery Network Automation Backend Deployment React DevOps Difficult roads often lead to beautiful destinations. Framework Neural Networks OAuth API Gateway
+Parallel Processing Docker Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Backend Success is how high you bounce when you hit bottom.
