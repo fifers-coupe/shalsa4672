@@ -22,3 +22,4 @@ Testing NLP OAuth Database Indexing Docker Work hard in silence, let your succes
 Simplicity is the ultimate sophistication. Pull Request Docker Edge Computing Difficult roads often lead to beautiful destinations. Deployment Do what you love and the money will follow. React Sharding Distributed Systems Parallel Processing Cloud Functions Kafka Containerization
 Machine Learning If you can dream it, you can do it. Framework Innovation distinguishes between a leader and a follower. GraphQL Cloud Containerization Neural Networks Database Dream big and dare to fail.
 Data Science Sharding Latency Optimization Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Blockchain
+Success is how high you bounce when you hit bottom. Content Delivery Network Automation Backend Deployment React DevOps Difficult roads often lead to beautiful destinations. Framework Neural Networks OAuth API Gateway
