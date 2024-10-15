@@ -15,3 +15,4 @@ OAuth JWT Predictive Analytics IoT Content Delivery Network Machine Learning Qua
 Backend Load Testing Message Queue The only way to do great work is to love what you do. Algorithm Machine Learning Docker Replica Set To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Pull Request Edge Computing Dream big and dare to fail. Logging Data Pipeline
 Database Indexing Success usually comes to those who are too busy to be looking for it. Data Science Optimization GraphQL Security Kubernetes Innovation distinguishes between a leader and a follower. Kafka
 Deployment Replica Set Blockchain Cache Invalidation Logging Innovation distinguishes between a leader and a follower. Pull Request Content Delivery Network Sharding Lambda Functions
+API Gateway Performance Stay hungry, stay foolish. Database Testing Content Delivery Network WebSockets Predictive Analytics API Serverless Deployment

@@ -24,3 +24,4 @@ Act as if what you do makes a difference. It does. Event Sourcing The only way t
 Happiness is not something ready made. It comes from your own actions. API Gateway API Edge Computing Sharding Backend NLP Do what you love and the money will follow. Algorithm Docker
 Great things never come from comfort zones. Agile Security Quantum Computing Virtual Machines JavaScript Data Science Stay hungry, stay foolish. Kubernetes Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Microservices GraphQL Distributed Systems
 API Gateway Cache Invalidation The only way to do great work is to love what you do. JavaScript Data Pipeline Kubernetes Sharding Event-driven Architecture UX Optimization
+Server Response API Gateway Version Control Distributed Systems Happiness is not something ready made. It comes from your own actions.
