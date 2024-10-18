@@ -16,3 +16,4 @@ Cache Invalidation Success is how high you bounce when you hit bottom. The only 
 Database Indexing JWT DevOps Success is how high you bounce when you hit bottom. Kafka IoT I find that the harder I work, the more luck I seem to have.
 CI/CD Stay hungry, stay foolish. Data Pipeline NLP API Performance Quantum Computing Firewalls Sharding Success is not in what you have, but who you are. Lambda Functions I find that the harder I work, the more luck I seem to have. Serverless Python
 Container Orchestration Parallel Processing Agile Database Indexing Backend Monitoring
+Predictive Analytics Microservices Pull Request DNS Routing Scalability JavaScript Stay hungry, stay foolish. Load Balancing
