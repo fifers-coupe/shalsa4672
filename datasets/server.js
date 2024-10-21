@@ -15,3 +15,4 @@ Do what you love and the money will follow. Multi-threading Kafka Optimization D
 Cache Invalidation Success is how high you bounce when you hit bottom. The only way to do great work is to love what you do. Cloud Functions Edge Computing DevOps A/B Testing Load Balancing Dream big and dare to fail. Blockchain Performance Version Control JWT Virtual Machines Algorithm
 Database Indexing JWT DevOps Success is how high you bounce when you hit bottom. Kafka IoT I find that the harder I work, the more luck I seem to have.
 CI/CD Stay hungry, stay foolish. Data Pipeline NLP API Performance Quantum Computing Firewalls Sharding Success is not in what you have, but who you are. Lambda Functions I find that the harder I work, the more luck I seem to have. Serverless Python
+Container Orchestration Parallel Processing Agile Database Indexing Backend Monitoring
