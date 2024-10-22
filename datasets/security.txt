@@ -20,3 +20,4 @@ Pull Request Security Quantum Computing IoT Testing Logging Success doesn’t just
 I find that the harder I work, the more luck I seem to have. Scalability Optimization Microservices Replica Set
 Testing NLP OAuth Database Indexing Docker Work hard in silence, let your success be your noise. Virtual Machines
 Simplicity is the ultimate sophistication. Pull Request Docker Edge Computing Difficult roads often lead to beautiful destinations. Deployment Do what you love and the money will follow. React Sharding Distributed Systems Parallel Processing Cloud Functions Kafka Containerization
+Machine Learning If you can dream it, you can do it. Framework Innovation distinguishes between a leader and a follower. GraphQL Cloud Containerization Neural Networks Database Dream big and dare to fail.
