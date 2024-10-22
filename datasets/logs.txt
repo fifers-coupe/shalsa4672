@@ -16,3 +16,4 @@ Cache Invalidation Machine Learning Framework Success usually comes to those who
 JavaScript Opportunities don't happen. You create them. Edge Computing Parallel Processing Database Indexing A/B Testing Testing Multi-threading Monitoring Act as if what you do makes a difference. It does. Load Balancing Replica Set Performance
 Predictive Analytics Success is not in what you have, but who you are. IoT Frontend Kafka OAuth
 Quantum Computing Cache Invalidation Testing Cloud Success is how high you bounce when you hit bottom. Database Backend Latency Optimization Data Science Load Testing
+Act as if what you do makes a difference. It does. Data Pipeline API Gateway Data Science JavaScript Lambda Functions Quantum Computing Parallel Processing Artificial Intelligence Cloud Replica Set Database Indexing Virtual Machines
