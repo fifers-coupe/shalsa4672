@@ -23,3 +23,4 @@ Containerization If you can dream it, you can do it. Data Science Virtual Machin
 Load Testing Cloud Edge Computing Message Queue Kubernetes Load Balancing Machine Learning Success is how high you bounce when you hit bottom. Firewalls
 Microservices Cache Invalidation Do what you love and the money will follow. Performance Logging Edge Computing Version Control Blockchain
 Kubernetes Python DevOps UX Optimization Containerization A/B Testing IoT Load Testing
+UX Optimization Innovation distinguishes between a leader and a follower. Data Science Edge Computing Stay hungry, stay foolish. Serverless NLP Success is not in what you have, but who you are. Virtual Machines Framework API Lambda Functions Deployment React
