@@ -14,3 +14,4 @@ Cloud Docker NLP Server Response Multi-threading Frontend Don't be afraid to giv
 Logging Data Science Firewalls Cloud API
 Event-driven Architecture React A/B Testing Testing Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
 Neural Networks GraphQL Kafka NLP Microservices Quantum Computing UX Optimization
+Happiness is not something ready made. It comes from your own actions. Edge Computing Do what you love and the money will follow. API Artificial Intelligence
