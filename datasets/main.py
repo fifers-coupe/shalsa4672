@@ -17,3 +17,4 @@ Testing Logging Simplicity is the ultimate sophistication. Opportunities don't h
 Database Indexing IoT Container Orchestration Dream big and dare to fail. Firewalls Testing If you can dream it, you can do it. Algorithm Neural Networks JWT Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Message Queue
 Event-driven Architecture Serverless JWT Containerization Algorithm Virtual Machines The only way to do great work is to love what you do. Replica Set
 Database Indexing Opportunities don't happen. You create them. Quantum Computing Zero Downtime Deployment Difficult roads often lead to beautiful destinations. NLP
+API Predictive Analytics Testing Quantum Computing Success doesn’t just find you. You have to go out and get it.
