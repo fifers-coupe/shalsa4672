@@ -19,3 +19,4 @@ To be the best, you must be able to handle the worst. Optimization Replica Set K
 Pull Request Security Quantum Computing IoT Testing Logging Success doesn’t just find you. You have to go out and get it. Docker Data Science
 I find that the harder I work, the more luck I seem to have. Scalability Optimization Microservices Replica Set
 Testing NLP OAuth Database Indexing Docker Work hard in silence, let your success be your noise. Virtual Machines
+Simplicity is the ultimate sophistication. Pull Request Docker Edge Computing Difficult roads often lead to beautiful destinations. Deployment Do what you love and the money will follow. React Sharding Distributed Systems Parallel Processing Cloud Functions Kafka Containerization

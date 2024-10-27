@@ -21,3 +21,4 @@ DNS Routing Multi-threading UX Optimization Database Performance Happiness is no
 Machine Learning React Difficult roads often lead to beautiful destinations. Server Response Multi-threading API A/B Testing RabbitMQ Serverless
 UX Optimization Performance Container Orchestration OAuth Quantum Computing Success doesn’t just find you. You have to go out and get it. Predictive Analytics RabbitMQ Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Deployment
 Act as if what you do makes a difference. It does. Event Sourcing The only way to do great work is to love what you do. API Gateway RabbitMQ Optimization JWT Testing Great things never come from comfort zones. CI/CD
+Happiness is not something ready made. It comes from your own actions. API Gateway API Edge Computing Sharding Backend NLP Do what you love and the money will follow. Algorithm Docker
