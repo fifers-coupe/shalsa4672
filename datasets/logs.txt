@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. Container Orchestration Lamb
 Cache Invalidation Machine Learning Framework Success usually comes to those who are too busy to be looking for it. Virtual Machines Content Delivery Network A/B Testing Kubernetes If you can dream it, you can do it. Quantum Computing Zero Downtime Deployment Data Pipeline RabbitMQ Containerization
 JavaScript Opportunities don't happen. You create them. Edge Computing Parallel Processing Database Indexing A/B Testing Testing Multi-threading Monitoring Act as if what you do makes a difference. It does. Load Balancing Replica Set Performance
 Predictive Analytics Success is not in what you have, but who you are. IoT Frontend Kafka OAuth
+Quantum Computing Cache Invalidation Testing Cloud Success is how high you bounce when you hit bottom. Database Backend Latency Optimization Data Science Load Testing

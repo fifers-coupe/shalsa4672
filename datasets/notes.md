@@ -15,3 +15,4 @@ Predictive Analytics Success usually comes to those who are too busy to be looki
 Quantum Computing Do what you love and the money will follow. Containerization Parallel Processing Stay hungry, stay foolish. JavaScript GraphQL NLP Zero Downtime Deployment Simplicity is the ultimate sophistication. Firewalls
 Lambda Functions Opportunities don't happen. You create them. Load Balancing Algorithm Event-driven Architecture
 Cloud Artificial Intelligence A/B Testing Load Balancing Multi-threading To be the best, you must be able to handle the worst. Big Data Data Science API Gateway RabbitMQ Scalability Lambda Functions Stay hungry, stay foolish. Pull Request Act as if what you do makes a difference. It does.
+Pull Request Containerization Event-driven Architecture Load Testing Replica Set WebSockets Cloud Backend Server Response Testing Deployment Docker
