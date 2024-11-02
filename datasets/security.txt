@@ -18,3 +18,4 @@ Data Pipeline Pull Request Containerization Load Testing OAuth Cloud Functions S
 To be the best, you must be able to handle the worst. Optimization Replica Set Kafka Deployment GraphQL Zero Downtime Deployment Multi-threading
 Pull Request Security Quantum Computing IoT Testing Logging Success doesn’t just find you. You have to go out and get it. Docker Data Science
 I find that the harder I work, the more luck I seem to have. Scalability Optimization Microservices Replica Set
+Testing NLP OAuth Database Indexing Docker Work hard in silence, let your success be your noise. Virtual Machines
