@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Frontend Big Data H
 Work hard in silence, let your success be your noise. Load Balancing RabbitMQ Message Queue Docker Quantum Computing
 Containerization Testing Data Science Message Queue Sharding
 Microservices DevOps Version Control API Gateway NLP UX Optimization Kubernetes Server Response JavaScript Work hard in silence, let your success be your noise. Message Queue API Scalability Data Pipeline
+The only way to do great work is to love what you do. Event Sourcing Data Pipeline Great things never come from comfort zones. UX Optimization Scalability Quantum Computing Version Control Message Queue

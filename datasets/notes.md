@@ -13,3 +13,4 @@ Great things never come from comfort zones. Virtual Machines Predictive Analytic
 Agile JWT Virtual Machines Success usually comes to those who are too busy to be looking for it. WebSockets GraphQL Big Data Frontend Success doesn’t just find you. You have to go out and get it. Code Review Simplicity is the ultimate sophistication. RabbitMQ API Gateway Success is how high you bounce when you hit bottom.
 Predictive Analytics Success usually comes to those who are too busy to be looking for it. Scalability Act as if what you do makes a difference. It does. Success is not in what you have, but who you are.
 Quantum Computing Do what you love and the money will follow. Containerization Parallel Processing Stay hungry, stay foolish. JavaScript GraphQL NLP Zero Downtime Deployment Simplicity is the ultimate sophistication. Firewalls
+Lambda Functions Opportunities don't happen. You create them. Load Balancing Algorithm Event-driven Architecture
