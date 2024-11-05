@@ -21,3 +21,4 @@ The only way to do great work is to love what you do. Monitoring Firewalls Optim
 If you can dream it, you can do it. Work hard in silence, let your success be your noise. Great things never come from comfort zones. NLP Load Balancing Content Delivery Network Performance Machine Learning Cloud Replica Set Code Review
 Containerization If you can dream it, you can do it. Data Science Virtual Machines Agile Database Indexing
 Load Testing Cloud Edge Computing Message Queue Kubernetes Load Balancing Machine Learning Success is how high you bounce when you hit bottom. Firewalls
+Microservices Cache Invalidation Do what you love and the money will follow. Performance Logging Edge Computing Version Control Blockchain

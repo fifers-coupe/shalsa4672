@@ -8,3 +8,4 @@ Monitoring Cloud Database Indexing Success doesn’t just find you. You have to go
 Great things never come from comfort zones. Lambda Functions If you can dream it, you can do it. Artificial Intelligence Simplicity is the ultimate sophistication. Quantum Computing UX Optimization Backend Edge Computing Kubernetes Microservices Cloud Functions
 Scalability Neural Networks Containerization Load Testing Docker UX Optimization Testing Virtual Machines Security
 Microservices Machine Learning Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. NLP I find that the harder I work, the more luck I seem to have. Deployment IoT Difficult roads often lead to beautiful destinations. Python Cloud Functions Frontend
+Database Dream big and dare to fail. Containerization Do what you love and the money will follow. Zero Downtime Deployment Data Science Machine Learning
