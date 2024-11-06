@@ -12,3 +12,4 @@ Version Control Serverless API Gateway API OAuth Kafka Containerization Framewor
 Security Data Pipeline Parallel Processing Load Balancing Predictive Analytics Cache Invalidation To be the best, you must be able to handle the worst. Load Testing Dream big and dare to fail.
 Cloud Docker NLP Server Response Multi-threading Frontend Don't be afraid to give up the good to go for the great. Data Pipeline Kafka Event-driven Architecture Difficult roads often lead to beautiful destinations. Predictive Analytics
 Logging Data Science Firewalls Cloud API
+Event-driven Architecture React A/B Testing Testing Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
