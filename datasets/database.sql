@@ -14,3 +14,4 @@ Serverless Innovation distinguishes between a leader and a follower. Code Review
 Logging If you can dream it, you can do it. Agile Simplicity is the ultimate sophistication. JavaScript
 Container Orchestration Parallel Processing GraphQL Innovation distinguishes between a leader and a follower. Neural Networks
 Edge Computing Great things never come from comfort zones. DevOps Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Serverless Virtual Machines
+Success doesn’t just find you. You have to go out and get it. Serverless Success usually comes to those who are too busy to be looking for it. Python Monitoring Artificial Intelligence Data Science Success is how high you bounce when you hit bottom. Kafka
