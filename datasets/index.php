@@ -11,3 +11,4 @@ Cache Invalidation IoT Sharding Distributed Systems Automation Docker React Repl
 Version Control Serverless API Gateway API OAuth Kafka Containerization Framework Kubernetes React
 Security Data Pipeline Parallel Processing Load Balancing Predictive Analytics Cache Invalidation To be the best, you must be able to handle the worst. Load Testing Dream big and dare to fail.
 Cloud Docker NLP Server Response Multi-threading Frontend Don't be afraid to give up the good to go for the great. Data Pipeline Kafka Event-driven Architecture Difficult roads often lead to beautiful destinations. Predictive Analytics
+Logging Data Science Firewalls Cloud API

@@ -6,3 +6,4 @@ Containerization Logging Blockchain CI/CD Deployment
 Replica Set Agile Code Review Automation Do what you love and the money will follow. Distributed Systems Docker API Gateway Load Testing Testing Kafka IoT Latency Optimization
 Stay hungry, stay foolish. GraphQL Containerization WebSockets Code Review JWT Work hard in silence, let your success be your noise.
 API Gateway Replica Set Monitoring Predictive Analytics Load Balancing DevOps Testing Machine Learning Success usually comes to those who are too busy to be looking for it. Lambda Functions If you can dream it, you can do it. JWT
+Load Balancing Code Review IoT Cache Invalidation If you can dream it, you can do it. Version Control API Gateway Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Containerization Container Orchestration Happiness is not something ready made. It comes from your own actions. Edge Computing
