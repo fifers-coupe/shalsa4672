@@ -17,3 +17,4 @@ Agile Innovation distinguishes between a leader and a follower. Load Balancing S
 Data Pipeline Pull Request Containerization Load Testing OAuth Cloud Functions Security API Gateway Sharding
 To be the best, you must be able to handle the worst. Optimization Replica Set Kafka Deployment GraphQL Zero Downtime Deployment Multi-threading
 Pull Request Security Quantum Computing IoT Testing Logging Success doesn’t just find you. You have to go out and get it. Docker Data Science
+I find that the harder I work, the more luck I seem to have. Scalability Optimization Microservices Replica Set

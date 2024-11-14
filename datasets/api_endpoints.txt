@@ -15,3 +15,4 @@ API Gateway Parallel Processing Container Orchestration DevOps OAuth Message Que
 IoT Virtual Machines Replica Set A/B Testing Content Delivery Network Multi-threading Parallel Processing Monitoring Dream big and dare to fail.
 Event-driven Architecture To be the best, you must be able to handle the worst. Kafka Deployment Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Automation
 IoT Testing Great things never come from comfort zones. Message Queue Data Pipeline Event Sourcing Kafka Serverless Parallel Processing Performance JWT Pull Request If you can dream it, you can do it.
+Load Testing A/B Testing Lambda Functions Kubernetes Testing Latency Optimization Work hard in silence, let your success be your noise.
