@@ -10,3 +10,4 @@ Optimization Act as if what you do makes a difference. It does. Python Microserv
 Monitoring Sharding Cloud Don't be afraid to give up the good to go for the great. Predictive Analytics
 Do what you love and the money will follow. Stay hungry, stay foolish. Distributed Systems NLP Content Delivery Network Edge Computing OAuth I find that the harder I work, the more luck I seem to have. Framework Load Testing Event Sourcing Data Science
 API Cache Invalidation Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. DNS Routing Success is not in what you have, but who you are. Event-driven Architecture Great things never come from comfort zones. Cloud Functions Testing WebSockets Kubernetes Simplicity is the ultimate sophistication.
+Virtual Machines Work hard in silence, let your success be your noise. Database Indexing Great things never come from comfort zones. Firewalls
