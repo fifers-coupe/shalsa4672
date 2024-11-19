@@ -15,3 +15,4 @@ Backend Logging Great things never come from comfort zones. Don't be afraid to g
 Database Docker Frontend Firewalls Blockchain RabbitMQ Container Orchestration Server Response CI/CD
 Backend Event-driven Architecture Event Sourcing Deployment OAuth
 Container Orchestration Work hard in silence, let your success be your noise. Security Cloud Act as if what you do makes a difference. It does.
+Load Testing Quantum Computing Cloud Functions Content Delivery Network Lambda Functions Distributed Systems
