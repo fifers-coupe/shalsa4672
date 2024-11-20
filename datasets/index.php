@@ -9,3 +9,4 @@ Opportunities don't happen. You create them. Success doesn’t just find you. You 
 Python GraphQL Security Predictive Analytics Containerization
 Cache Invalidation IoT Sharding Distributed Systems Automation Docker React Replica Set Dream big and dare to fail. Pull Request Algorithm JWT Optimization
 Version Control Serverless API Gateway API OAuth Kafka Containerization Framework Kubernetes React
+Security Data Pipeline Parallel Processing Load Balancing Predictive Analytics Cache Invalidation To be the best, you must be able to handle the worst. Load Testing Dream big and dare to fail.
