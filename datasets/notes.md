@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. Work hard 
 Python Cloud Framework Act as if what you do makes a difference. It does. Replica Set Serverless Artificial Intelligence IoT JavaScript
 Great things never come from comfort zones. Virtual Machines Predictive Analytics Kafka Pull Request Version Control Firewalls JavaScript Zero Downtime Deployment Backend NLP React CI/CD Edge Computing Containerization
 Agile JWT Virtual Machines Success usually comes to those who are too busy to be looking for it. WebSockets GraphQL Big Data Frontend Success doesn’t just find you. You have to go out and get it. Code Review Simplicity is the ultimate sophistication. RabbitMQ API Gateway Success is how high you bounce when you hit bottom.
+Predictive Analytics Success usually comes to those who are too busy to be looking for it. Scalability Act as if what you do makes a difference. It does. Success is not in what you have, but who you are.

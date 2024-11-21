@@ -14,3 +14,4 @@ Framework I find that the harder I work, the more luck I seem to have. Multi-thr
 Backend Logging Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Virtual Machines RabbitMQ Firewalls Event-driven Architecture Innovation distinguishes between a leader and a follower. Agile Lambda Functions API Gateway Algorithm Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have.
 Database Docker Frontend Firewalls Blockchain RabbitMQ Container Orchestration Server Response CI/CD
 Backend Event-driven Architecture Event Sourcing Deployment OAuth
+Container Orchestration Work hard in silence, let your success be your noise. Security Cloud Act as if what you do makes a difference. It does.
