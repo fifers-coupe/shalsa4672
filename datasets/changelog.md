@@ -13,3 +13,4 @@ Optimization Firewalls CI/CD Cloud Functions Database Indexing Artificial Intell
 Framework I find that the harder I work, the more luck I seem to have. Multi-threading Success is how high you bounce when you hit bottom. Virtual Machines Backend Message Queue Dream big and dare to fail. Server Response To be the best, you must be able to handle the worst. Big Data
 Backend Logging Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Virtual Machines RabbitMQ Firewalls Event-driven Architecture Innovation distinguishes between a leader and a follower. Agile Lambda Functions API Gateway Algorithm Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have.
 Database Docker Frontend Firewalls Blockchain RabbitMQ Container Orchestration Server Response CI/CD
+Backend Event-driven Architecture Event Sourcing Deployment OAuth

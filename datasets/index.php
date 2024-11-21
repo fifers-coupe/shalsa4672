@@ -8,3 +8,4 @@ Monitoring Work hard in silence, let your success be your noise. Difficult roads
 Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Load Testing Code Review Cloud Functions Latency Optimization Agile Innovation distinguishes between a leader and a follower. DevOps API Event-driven Architecture Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Cache Invalidation Artificial Intelligence
 Python GraphQL Security Predictive Analytics Containerization
 Cache Invalidation IoT Sharding Distributed Systems Automation Docker React Replica Set Dream big and dare to fail. Pull Request Algorithm JWT Optimization
+Version Control Serverless API Gateway API OAuth Kafka Containerization Framework Kubernetes React
