@@ -6,3 +6,4 @@ CI/CD API Monitoring Event-driven Architecture Firewalls Latency Optimization Co
 I find that the harder I work, the more luck I seem to have. Frontend Big Data Happiness is not something ready made. It comes from your own actions. OAuth NLP
 Work hard in silence, let your success be your noise. Load Balancing RabbitMQ Message Queue Docker Quantum Computing
 Containerization Testing Data Science Message Queue Sharding
+Microservices DevOps Version Control API Gateway NLP UX Optimization Kubernetes Server Response JavaScript Work hard in silence, let your success be your noise. Message Queue API Scalability Data Pipeline
