@@ -6,3 +6,4 @@ To be the best, you must be able to handle the worst. Success is not in what you
 Agile API Gateway Database React Load Balancing Latency Optimization Machine Learning Frontend Neural Networks
 Monitoring Cloud Database Indexing Success doesn’t just find you. You have to go out and get it. Backend IoT Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
 Great things never come from comfort zones. Lambda Functions If you can dream it, you can do it. Artificial Intelligence Simplicity is the ultimate sophistication. Quantum Computing UX Optimization Backend Edge Computing Kubernetes Microservices Cloud Functions
+Scalability Neural Networks Containerization Load Testing Docker UX Optimization Testing Virtual Machines Security
