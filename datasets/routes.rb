@@ -19,3 +19,4 @@ A/B Testing Latency Optimization OAuth Container Orchestration Optimization Data
 Stay hungry, stay foolish. Lambda Functions NLP If you can dream it, you can do it. WebSockets Microservices Cloud Functions
 The only way to do great work is to love what you do. Monitoring Firewalls Optimization JWT Containerization
 If you can dream it, you can do it. Work hard in silence, let your success be your noise. Great things never come from comfort zones. NLP Load Balancing Content Delivery Network Performance Machine Learning Cloud Replica Set Code Review
+Containerization If you can dream it, you can do it. Data Science Virtual Machines Agile Database Indexing
