@@ -11,3 +11,4 @@ If you can dream it, you can do it. DevOps Neural Networks Big Data Kafka To be 
 To be the best, you must be able to handle the worst. Cloud Success is how high you bounce when you hit bottom. Artificial Intelligence UX Optimization Act as if what you do makes a difference. It does. Neural Networks DNS Routing Zero Downtime Deployment Python
 Pull Request Event-driven Architecture Event Sourcing Kubernetes A/B Testing JavaScript Opportunities don't happen. You create them. Distributed Systems
 Serverless Innovation distinguishes between a leader and a follower. Code Review Dream big and dare to fail. To be the best, you must be able to handle the worst. Performance Server Response Security JavaScript Artificial Intelligence Kafka
+Logging If you can dream it, you can do it. Agile Simplicity is the ultimate sophistication. JavaScript
