@@ -9,3 +9,4 @@ A/B Testing Parallel Processing Containerization Message Queue Container Orchest
 Framework Success doesn’t just find you. You have to go out and get it. Multi-threading Big Data Agile Pull Request Distributed Systems
 Event Sourcing If you can dream it, you can do it. Sharding Message Queue Neural Networks
 Kubernetes UX Optimization The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Artificial Intelligence Success is not in what you have, but who you are. Cloud
+If you can dream it, you can do it. Version Control Quantum Computing Dream big and dare to fail. DNS Routing Cloud Work hard in silence, let your success be your noise. Neural Networks Frontend Load Testing Kubernetes Edge Computing Distributed Systems Serverless Replica Set
