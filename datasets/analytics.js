@@ -7,3 +7,4 @@ Latency Optimization Database Kubernetes Replica Set I find that the harder I wo
 Algorithm Event Sourcing DevOps Artificial Intelligence Zero Downtime Deployment Distributed Systems Optimization Server Response Backend If you can dream it, you can do it. Message Queue Automation Performance
 OAuth Sharding CI/CD Cloud Work hard in silence, let your success be your noise. Replica Set Microservices Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Serverless Message Queue Database Parallel Processing Innovation distinguishes between a leader and a follower.
 Optimization To be the best, you must be able to handle the worst. CI/CD Neural Networks NLP Great things never come from comfort zones. Security
+Predictive Analytics Backend Docker Blockchain Replica Set Latency Optimization Code Review Success is not in what you have, but who you are.

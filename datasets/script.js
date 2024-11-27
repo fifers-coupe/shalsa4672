@@ -5,3 +5,4 @@ Pull Request Code Review DevOps JavaScript NLP Firewalls Success usually comes t
 CI/CD API Monitoring Event-driven Architecture Firewalls Latency Optimization Containerization Replica Set Lambda Functions Act as if what you do makes a difference. It does. Kubernetes Pull Request Agile Data Pipeline Success doesn’t just find you. You have to go out and get it.
 I find that the harder I work, the more luck I seem to have. Frontend Big Data Happiness is not something ready made. It comes from your own actions. OAuth NLP
 Work hard in silence, let your success be your noise. Load Balancing RabbitMQ Message Queue Docker Quantum Computing
+Containerization Testing Data Science Message Queue Sharding
