@@ -9,3 +9,4 @@ API Gateway Security Edge Computing Data Science Lambda Functions JavaScript DNS
 Sharding Big Data A/B Testing Difficult roads often lead to beautiful destinations. Docker Logging Data Science Load Balancing Edge Computing Machine Learning
 Machine Learning Load Testing The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. NLP Optimization Zero Downtime Deployment Kubernetes Pull Request
 Load Testing Version Control To be the best, you must be able to handle the worst. Do what you love and the money will follow. A/B Testing Replica Set Firewalls Success is how high you bounce when you hit bottom. Performance Security DevOps Agile Server Response Data Pipeline
+Kafka Cloud If you can dream it, you can do it. Containerization Success usually comes to those who are too busy to be looking for it. Server Response Logging I find that the harder I work, the more luck I seem to have.
