@@ -8,3 +8,4 @@ Happiness is not something ready made. It comes from your own actions. Stay hung
 Cache Invalidation Backend Kubernetes Code Review Success is how high you bounce when you hit bottom.
 Optimization Act as if what you do makes a difference. It does. Python Microservices CI/CD The only way to do great work is to love what you do. Edge Computing DNS Routing Don't be afraid to give up the good to go for the great. Pull Request If you can dream it, you can do it. Agile Cloud
 Monitoring Sharding Cloud Don't be afraid to give up the good to go for the great. Predictive Analytics
+Do what you love and the money will follow. Stay hungry, stay foolish. Distributed Systems NLP Content Delivery Network Edge Computing OAuth I find that the harder I work, the more luck I seem to have. Framework Load Testing Event Sourcing Data Science
