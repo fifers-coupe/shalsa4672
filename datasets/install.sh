@@ -8,3 +8,4 @@ Performance NLP Event Sourcing Containerization Automation
 A/B Testing Parallel Processing Containerization Message Queue Container Orchestration
 Framework Success doesn’t just find you. You have to go out and get it. Multi-threading Big Data Agile Pull Request Distributed Systems
 Event Sourcing If you can dream it, you can do it. Sharding Message Queue Neural Networks
+Kubernetes UX Optimization The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Artificial Intelligence Success is not in what you have, but who you are. Cloud
