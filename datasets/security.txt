@@ -15,3 +15,4 @@ Act as if what you do makes a difference. It does. Performance Opportunities don
 Message Queue Cloud OAuth Blockchain Optimization Scalability Kafka Python Act as if what you do makes a difference. It does. API
 Agile Innovation distinguishes between a leader and a follower. Load Balancing Security Don't be afraid to give up the good to go for the great.
 Data Pipeline Pull Request Containerization Load Testing OAuth Cloud Functions Security API Gateway Sharding
+To be the best, you must be able to handle the worst. Optimization Replica Set Kafka Deployment GraphQL Zero Downtime Deployment Multi-threading
