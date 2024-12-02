@@ -8,3 +8,4 @@ Great things never come from comfort zones. Performance Success usually comes to
 Edge Computing Firewalls WebSockets Dream big and dare to fail. Blockchain Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Automation JWT
 NLP Containerization I find that the harder I work, the more luck I seem to have. Lambda Functions Python Cloud Quantum Computing Virtual Machines Success is how high you bounce when you hit bottom. Neural Networks Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Docker Kubernetes
 Data Pipeline Sharding DNS Routing Machine Learning Cloud Load Balancing Lambda Functions Event Sourcing API Content Delivery Network Backend Automation Parallel Processing
+Version Control Edge Computing Automation Message Queue A/B Testing Quantum Computing Deployment Innovation distinguishes between a leader and a follower.
