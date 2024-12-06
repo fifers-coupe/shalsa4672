@@ -16,3 +16,4 @@ Data Pipeline Python Act as if what you do makes a difference. It does. Monitori
 OAuth Big Data Data Science Cloud Functions Difficult roads often lead to beautiful destinations. Firewalls Load Testing Kubernetes CI/CD
 Docker I find that the harder I work, the more luck I seem to have. UX Optimization Security Zero Downtime Deployment Kafka DNS Routing Load Balancing JWT Dream big and dare to fail. CI/CD If you can dream it, you can do it.
 A/B Testing Latency Optimization OAuth Container Orchestration Optimization Database Indexing Simplicity is the ultimate sophistication. API Serverless I find that the harder I work, the more luck I seem to have.
+Stay hungry, stay foolish. Lambda Functions NLP If you can dream it, you can do it. WebSockets Microservices Cloud Functions
