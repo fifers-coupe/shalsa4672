@@ -12,3 +12,4 @@ Container Orchestration Logging Python Innovation distinguishes between a leader
 UX Optimization Firewalls If you can dream it, you can do it. API Gateway Sharding API DNS Routing Quantum Computing Neural Networks Kafka Success usually comes to those who are too busy to be looking for it.
 JavaScript Load Testing Do what you love and the money will follow. Database Quantum Computing Predictive Analytics Simplicity is the ultimate sophistication. GraphQL JWT Event Sourcing Container Orchestration Distributed Systems Docker IoT Artificial Intelligence
 Act as if what you do makes a difference. It does. Performance Opportunities don't happen. You create them. Code Review Sharding NLP
+Message Queue Cloud OAuth Blockchain Optimization Scalability Kafka Python Act as if what you do makes a difference. It does. API
