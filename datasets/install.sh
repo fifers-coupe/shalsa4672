@@ -7,3 +7,4 @@ Framework Happiness is not something ready made. It comes from your own actions.
 Performance NLP Event Sourcing Containerization Automation
 A/B Testing Parallel Processing Containerization Message Queue Container Orchestration
 Framework Success doesn’t just find you. You have to go out and get it. Multi-threading Big Data Agile Pull Request Distributed Systems
+Event Sourcing If you can dream it, you can do it. Sharding Message Queue Neural Networks
