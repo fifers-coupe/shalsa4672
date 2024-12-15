@@ -5,3 +5,4 @@ JWT OAuth API Opportunities don't happen. You create them. Python Edge Computing
 Cache Invalidation Event Sourcing Data Science Cloud Work hard in silence, let your success be your noise.
 Latency Optimization Database Kubernetes Replica Set I find that the harder I work, the more luck I seem to have. NLP The only way to do great work is to love what you do. Backend
 Algorithm Event Sourcing DevOps Artificial Intelligence Zero Downtime Deployment Distributed Systems Optimization Server Response Backend If you can dream it, you can do it. Message Queue Automation Performance
+OAuth Sharding CI/CD Cloud Work hard in silence, let your success be your noise. Replica Set Microservices Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Serverless Message Queue Database Parallel Processing Innovation distinguishes between a leader and a follower.
