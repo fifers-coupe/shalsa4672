@@ -14,3 +14,4 @@ Virtual Machines Success is not in what you have, but who you are. Quantum Compu
 Load Testing Don't be afraid to give up the good to go for the great. OAuth React Automation Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Machine Learning CI/CD WebSockets
 Data Pipeline Python Act as if what you do makes a difference. It does. Monitoring Database Parallel Processing Version Control Framework Edge Computing Pull Request Machine Learning
 OAuth Big Data Data Science Cloud Functions Difficult roads often lead to beautiful destinations. Firewalls Load Testing Kubernetes CI/CD
+Docker I find that the harder I work, the more luck I seem to have. UX Optimization Security Zero Downtime Deployment Kafka DNS Routing Load Balancing JWT Dream big and dare to fail. CI/CD If you can dream it, you can do it.
