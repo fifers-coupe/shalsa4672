@@ -7,3 +7,4 @@ Content Delivery Network Neural Networks Logging Edge Computing RabbitMQ Fronten
 Edge Computing Containerization Cloud Functions Machine Learning Act as if what you do makes a difference. It does. Docker Great things never come from comfort zones.
 Testing Automation Serverless Cache Invalidation Big Data Difficult roads often lead to beautiful destinations. Logging IoT Kubernetes Data Science Pull Request NLP Simplicity is the ultimate sophistication. Neural Networks Multi-threading
 A/B Testing JavaScript Success is not in what you have, but who you are. Message Queue DNS Routing
+If you can dream it, you can do it. DevOps Neural Networks Big Data Kafka To be the best, you must be able to handle the worst. Firewalls Work hard in silence, let your success be your noise. Great things never come from comfort zones. Backend
