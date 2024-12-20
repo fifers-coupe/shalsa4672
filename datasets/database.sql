@@ -6,3 +6,4 @@ Distributed Systems Framework Load Testing Success usually comes to those who ar
 Content Delivery Network Neural Networks Logging Edge Computing RabbitMQ Frontend Scalability
 Edge Computing Containerization Cloud Functions Machine Learning Act as if what you do makes a difference. It does. Docker Great things never come from comfort zones.
 Testing Automation Serverless Cache Invalidation Big Data Difficult roads often lead to beautiful destinations. Logging IoT Kubernetes Data Science Pull Request NLP Simplicity is the ultimate sophistication. Neural Networks Multi-threading
+A/B Testing JavaScript Success is not in what you have, but who you are. Message Queue DNS Routing
