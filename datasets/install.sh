@@ -6,3 +6,4 @@ Load Testing Success is how high you bounce when you hit bottom. Monitoring API 
 Framework Happiness is not something ready made. It comes from your own actions. Sharding DNS Routing Data Science
 Performance NLP Event Sourcing Containerization Automation
 A/B Testing Parallel Processing Containerization Message Queue Container Orchestration
+Framework Success doesn’t just find you. You have to go out and get it. Multi-threading Big Data Agile Pull Request Distributed Systems

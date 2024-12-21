@@ -12,3 +12,4 @@ Automation React Code Review Frontend Server Response Data Pipeline Great things
 Data Science Backend Frontend Security Version Control Docker Serverless Success usually comes to those who are too busy to be looking for it. Framework
 Virtual Machines Success is not in what you have, but who you are. Quantum Computing Load Balancing Logging Container Orchestration Containerization Artificial Intelligence Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. JavaScript
 Load Testing Don't be afraid to give up the good to go for the great. OAuth React Automation Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Machine Learning CI/CD WebSockets
+Data Pipeline Python Act as if what you do makes a difference. It does. Monitoring Database Parallel Processing Version Control Framework Edge Computing Pull Request Machine Learning
