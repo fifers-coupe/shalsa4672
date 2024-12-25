@@ -5,3 +5,4 @@ Microservices Testing Python Load Testing Cloud Success is how high you bounce w
 Distributed Systems Framework Load Testing Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. API Gateway Event-driven Architecture
 Content Delivery Network Neural Networks Logging Edge Computing RabbitMQ Frontend Scalability
 Edge Computing Containerization Cloud Functions Machine Learning Act as if what you do makes a difference. It does. Docker Great things never come from comfort zones.
+Testing Automation Serverless Cache Invalidation Big Data Difficult roads often lead to beautiful destinations. Logging IoT Kubernetes Data Science Pull Request NLP Simplicity is the ultimate sophistication. Neural Networks Multi-threading
