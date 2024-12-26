@@ -5,3 +5,4 @@ Docker OAuth Success usually comes to those who are too busy to be looking for i
 Machine Learning Don't be afraid to give up the good to go for the great. JavaScript Frontend Sharding Security Algorithm Optimization Great things never come from comfort zones. Data Pipeline Logging
 UX Optimization Agile Kafka Sharding Great things never come from comfort zones.
 Big Data Success doesn’t just find you. You have to go out and get it. Container Orchestration Frontend Sharding Cache Invalidation Data Pipeline Opportunities don't happen. You create them. Quantum Computing The only way to do great work is to love what you do. IoT Performance Kubernetes
+Work hard in silence, let your success be your noise. Load Testing Container Orchestration Performance Firewalls Scalability
