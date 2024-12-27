@@ -6,3 +6,4 @@ Difficult roads often lead to beautiful destinations. Frontend Database Indexing
 Work hard in silence, let your success be your noise. Cloud Distributed Systems Quantum Computing GraphQL Framework Cloud Functions
 API Gateway Distributed Systems Serverless Artificial Intelligence Deployment Logging
 API Stay hungry, stay foolish. Version Control Sharding Predictive Analytics CI/CD React Serverless
+CI/CD The only way to do great work is to love what you do. Agile RabbitMQ Docker Python Data Pipeline Kafka
