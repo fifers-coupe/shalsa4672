@@ -5,3 +5,4 @@ Replica Set Version Control Work hard in silence, let your success be your noise
 Performance IoT Success usually comes to those who are too busy to be looking for it. API Pull Request Work hard in silence, let your success be your noise. Security
 Pull Request Data Science Edge Computing Act as if what you do makes a difference. It does. Backend Opportunities don't happen. You create them. JWT Multi-threading RabbitMQ
 Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Docker Latency Optimization Deployment Backend Success is not in what you have, but who you are. Do what you love and the money will follow. Sharding Difficult roads often lead to beautiful destinations. Code Review Container Orchestration Success doesn’t just find you. You have to go out and get it. Message Queue Data Pipeline
+Cache Invalidation Backend Kubernetes Code Review Success is how high you bounce when you hit bottom.
