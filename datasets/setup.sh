@@ -5,3 +5,4 @@ The only way to do great work is to love what you do. DNS Routing I find that th
 Difficult roads often lead to beautiful destinations. Testing WebSockets Data Science Don't be afraid to give up the good to go for the great. Deployment Load Testing Artificial Intelligence
 Work hard in silence, let your success be your noise. Blockchain Machine Learning Server Response Latency Optimization Simplicity is the ultimate sophistication. Security Scalability
 RabbitMQ Quantum Computing Simplicity is the ultimate sophistication. GraphQL Difficult roads often lead to beautiful destinations. Dream big and dare to fail.
+Cloud Functions Distributed Systems Dream big and dare to fail. DevOps Deployment Simplicity is the ultimate sophistication. Blockchain Database Indexing OAuth Monitoring Logging
