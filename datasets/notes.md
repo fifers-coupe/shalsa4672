@@ -4,3 +4,4 @@ Blockchain Zero Downtime Deployment Serverless Security Load Balancing UX Optimi
 Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. RabbitMQ Logging Event Sourcing Opportunities don't happen. You create them. Neural Networks If you can dream it, you can do it. Pull Request Testing OAuth Data Science Serverless
 Difficult roads often lead to beautiful destinations. Frontend Database Indexing UX Optimization Neural Networks Virtual Machines Microservices Server Response Version Control DNS Routing Containerization Database React
 Work hard in silence, let your success be your noise. Cloud Distributed Systems Quantum Computing GraphQL Framework Cloud Functions
+API Gateway Distributed Systems Serverless Artificial Intelligence Deployment Logging
