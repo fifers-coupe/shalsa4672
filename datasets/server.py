@@ -3,3 +3,4 @@ Happiness is not something ready made. It comes from your own actions. Load Bala
 WebSockets Latency Optimization RabbitMQ Optimization Frontend Machine Learning Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Load Balancing Firewalls Agile Framework Container Orchestration To be the best, you must be able to handle the worst.
 Replica Set Version Control Work hard in silence, let your success be your noise. Virtual Machines Cache Invalidation Parallel Processing Firewalls Performance Event Sourcing Logging Data Pipeline Lambda Functions JavaScript Frontend
 Performance IoT Success usually comes to those who are too busy to be looking for it. API Pull Request Work hard in silence, let your success be your noise. Security
+Pull Request Data Science Edge Computing Act as if what you do makes a difference. It does. Backend Opportunities don't happen. You create them. JWT Multi-threading RabbitMQ
