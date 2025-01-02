@@ -5,3 +5,4 @@ API Data Pipeline React Microservices Frontend Dream big and dare to fail. Serve
 Load Testing Success is how high you bounce when you hit bottom. Monitoring API Gateway Cloud Functions Success usually comes to those who are too busy to be looking for it. Kubernetes GraphQL
 Framework Happiness is not something ready made. It comes from your own actions. Sharding DNS Routing Data Science
 Performance NLP Event Sourcing Containerization Automation
+A/B Testing Parallel Processing Containerization Message Queue Container Orchestration
