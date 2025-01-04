@@ -4,3 +4,4 @@ Machine Learning API I find that the harder I work, the more luck I seem to have
 Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Blockchain The only way to do great work is to love what you do. Frontend Virtual Machines API
 To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Great things never come from comfort zones. Event-driven Architecture Distributed Systems Version Control Framework
 Agile API Gateway Database React Load Balancing Latency Optimization Machine Learning Frontend Neural Networks
+Monitoring Cloud Database Indexing Success doesn’t just find you. You have to go out and get it. Backend IoT Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
