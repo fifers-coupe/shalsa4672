@@ -4,3 +4,4 @@ Distributed Systems Success is not in what you have, but who you are. JWT Rabbit
 JWT OAuth API Opportunities don't happen. You create them. Python Edge Computing Data Pipeline JavaScript
 Cache Invalidation Event Sourcing Data Science Cloud Work hard in silence, let your success be your noise.
 Latency Optimization Database Kubernetes Replica Set I find that the harder I work, the more luck I seem to have. NLP The only way to do great work is to love what you do. Backend
+Algorithm Event Sourcing DevOps Artificial Intelligence Zero Downtime Deployment Distributed Systems Optimization Server Response Backend If you can dream it, you can do it. Message Queue Automation Performance
