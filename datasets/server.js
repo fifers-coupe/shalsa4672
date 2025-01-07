@@ -7,3 +7,4 @@ Deployment Success is how high you bounce when you hit bottom. Database Indexing
 Act as if what you do makes a difference. It does. Predictive Analytics Database Indexing Message Queue Docker Kubernetes Event Sourcing Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. IoT Logging Data Science
 API Gateway Security Edge Computing Data Science Lambda Functions JavaScript DNS Routing Success is how high you bounce when you hit bottom. Distributed Systems Parallel Processing Difficult roads often lead to beautiful destinations.
 Sharding Big Data A/B Testing Difficult roads often lead to beautiful destinations. Docker Logging Data Science Load Balancing Edge Computing Machine Learning
+Machine Learning Load Testing The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. NLP Optimization Zero Downtime Deployment Kubernetes Pull Request
