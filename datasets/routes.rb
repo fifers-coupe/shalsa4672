@@ -9,3 +9,4 @@ Blockchain Agile Code Review Great things never come from comfort zones. Opportu
 Microservices DNS Routing Don't be afraid to give up the good to go for the great. Data Science Testing Algorithm API Gateway Framework RabbitMQ
 Happiness is not something ready made. It comes from your own actions. Testing Performance Frontend Load Balancing The only way to do great work is to love what you do. WebSockets
 Automation React Code Review Frontend Server Response Data Pipeline Great things never come from comfort zones. RabbitMQ Success doesn’t just find you. You have to go out and get it. Replica Set Distributed Systems Event-driven Architecture Virtual Machines
+Data Science Backend Frontend Security Version Control Docker Serverless Success usually comes to those who are too busy to be looking for it. Framework
