@@ -3,3 +3,4 @@ Machine Learning Performance Scalability JWT Code Review API Agile Database Zero
 Distributed Systems Success is not in what you have, but who you are. JWT RabbitMQ Testing Monitoring Message Queue Database Indexing Docker Don't be afraid to give up the good to go for the great. Pull Request Python If you can dream it, you can do it. Automation Cache Invalidation
 JWT OAuth API Opportunities don't happen. You create them. Python Edge Computing Data Pipeline JavaScript
 Cache Invalidation Event Sourcing Data Science Cloud Work hard in silence, let your success be your noise.
+Latency Optimization Database Kubernetes Replica Set I find that the harder I work, the more luck I seem to have. NLP The only way to do great work is to love what you do. Backend
