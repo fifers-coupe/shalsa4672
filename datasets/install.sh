@@ -4,3 +4,4 @@ Automation Message Queue JWT Dream big and dare to fail. Firewalls Data Science 
 API Data Pipeline React Microservices Frontend Dream big and dare to fail. Serverless Message Queue Containerization Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Pull Request
 Load Testing Success is how high you bounce when you hit bottom. Monitoring API Gateway Cloud Functions Success usually comes to those who are too busy to be looking for it. Kubernetes GraphQL
 Framework Happiness is not something ready made. It comes from your own actions. Sharding DNS Routing Data Science
+Performance NLP Event Sourcing Containerization Automation

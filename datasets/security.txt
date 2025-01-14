@@ -5,3 +5,4 @@ Predictive Analytics Multi-threading Serverless I find that the harder I work, t
 Frontend Version Control Testing Event Sourcing Pull Request Distributed Systems Server Response Great things never come from comfort zones.
 Backend Server Response Cloud Functions Replica Set Opportunities don't happen. You create them. IoT Content Delivery Network
 Big Data Containerization Cloud Innovation distinguishes between a leader and a follower. Cloud Functions Agile To be the best, you must be able to handle the worst. Predictive Analytics Zero Downtime Deployment
+Version Control Server Response Serverless Blockchain Lambda Functions Frontend Deployment API Gateway Zero Downtime Deployment Latency Optimization
