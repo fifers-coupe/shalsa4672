@@ -4,3 +4,4 @@ JWT Great things never come from comfort zones. To be the best, you must be able
 Predictive Analytics Multi-threading Serverless I find that the harder I work, the more luck I seem to have. Event-driven Architecture Pull Request Lambda Functions Success usually comes to those who are too busy to be looking for it. Docker Latency Optimization Python Cloud Functions Firewalls Container Orchestration
 Frontend Version Control Testing Event Sourcing Pull Request Distributed Systems Server Response Great things never come from comfort zones.
 Backend Server Response Cloud Functions Replica Set Opportunities don't happen. You create them. IoT Content Delivery Network
+Big Data Containerization Cloud Innovation distinguishes between a leader and a follower. Cloud Functions Agile To be the best, you must be able to handle the worst. Predictive Analytics Zero Downtime Deployment

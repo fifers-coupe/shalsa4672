@@ -3,3 +3,4 @@ Container Orchestration Optimization Stay hungry, stay foolish. Cloud Functions 
 Event Sourcing Zero Downtime Deployment Logging Artificial Intelligence NLP Load Balancing Parallel Processing Deployment Docker JWT Kubernetes Frontend DevOps
 A/B Testing If you can dream it, you can do it. Replica Set OAuth Difficult roads often lead to beautiful destinations. Content Delivery Network Big Data Load Balancing Stay hungry, stay foolish. Event Sourcing Quantum Computing Dream big and dare to fail. I find that the harder I work, the more luck I seem to have.
 NLP Database UX Optimization WebSockets Content Delivery Network A/B Testing JWT Serverless
+Monitoring OAuth React Difficult roads often lead to beautiful destinations. Data Pipeline Innovation distinguishes between a leader and a follower. Scalability Load Testing Database Algorithm Deployment Security Firewalls
