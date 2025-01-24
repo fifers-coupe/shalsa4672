@@ -6,3 +6,4 @@ Agile API Gateway Message Queue Quantum Computing Cloud Opportunities don't happ
 Containerization DevOps Frontend API Gateway Success is how high you bounce when you hit bottom. Event Sourcing Difficult roads often lead to beautiful destinations. Server Response Work hard in silence, let your success be your noise. If you can dream it, you can do it. Cloud Functions
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Frontend Server Response Python Don't be afraid to give up the good to go for the great.
 Blockchain Agile Code Review Great things never come from comfort zones. Opportunities don't happen. You create them. GraphQL IoT Container Orchestration
+Microservices DNS Routing Don't be afraid to give up the good to go for the great. Data Science Testing Algorithm API Gateway Framework RabbitMQ
