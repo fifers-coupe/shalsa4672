@@ -7,3 +7,4 @@ Containerization DevOps Frontend API Gateway Success is how high you bounce when
 Lambda Functions Happiness is not something ready made. It comes from your own actions. Frontend Server Response Python Don't be afraid to give up the good to go for the great.
 Blockchain Agile Code Review Great things never come from comfort zones. Opportunities don't happen. You create them. GraphQL IoT Container Orchestration
 Microservices DNS Routing Don't be afraid to give up the good to go for the great. Data Science Testing Algorithm API Gateway Framework RabbitMQ
+Happiness is not something ready made. It comes from your own actions. Testing Performance Frontend Load Balancing The only way to do great work is to love what you do. WebSockets
