@@ -1,1 +1,2 @@
 Act as if what you do makes a difference. It does. Firewalls A/B Testing Quantum Computing CI/CD Happiness is not something ready made. It comes from your own actions. Event Sourcing Automation Cloud Success is how high you bounce when you hit bottom. Kafka
+Happiness is not something ready made. It comes from your own actions. Load Balancing The only way to do great work is to love what you do. Kafka Logging Cache Invalidation Kubernetes Quantum Computing Content Delivery Network Scalability Machine Learning Don't be afraid to give up the good to go for the great. Serverless
