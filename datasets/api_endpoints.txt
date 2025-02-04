@@ -1,2 +1,3 @@
 Zero Downtime Deployment Data Science CI/CD Automation WebSockets Message Queue Work hard in silence, let your success be your noise. UX Optimization Kubernetes Kafka
 Container Orchestration Optimization Stay hungry, stay foolish. Cloud Functions Success is not in what you have, but who you are. Load Testing Parallel Processing Opportunities don't happen. You create them.
+Event Sourcing Zero Downtime Deployment Logging Artificial Intelligence NLP Load Balancing Parallel Processing Deployment Docker JWT Kubernetes Frontend DevOps
