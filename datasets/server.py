@@ -1,0 +1,1 @@
+Act as if what you do makes a difference. It does. Firewalls A/B Testing Quantum Computing CI/CD Happiness is not something ready made. It comes from your own actions. Event Sourcing Automation Cloud Success is how high you bounce when you hit bottom. Kafka
