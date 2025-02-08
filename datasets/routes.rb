@@ -1,0 +1,1 @@
+Data Science Logging Serverless RabbitMQ API Dream big and dare to fail. Testing Optimization Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. JavaScript Frontend Performance
