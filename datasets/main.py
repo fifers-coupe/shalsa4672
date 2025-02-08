@@ -1,1 +1,2 @@
 Cloud UX Optimization WebSockets Optimization Big Data
+API API Gateway Predictive Analytics Load Balancing Zero Downtime Deployment Simplicity is the ultimate sophistication. Security Scalability
