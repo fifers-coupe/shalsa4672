@@ -1,0 +1,1 @@
+Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Lambda Functions Database Indexing Virtual Machines Great things never come from comfort zones. Performance
